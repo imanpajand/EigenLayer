@@ -2,11 +2,7 @@
 ![Linter](https://github.com/Layr-Labs/eigensdk-go/actions/workflows/golangci-lint.yml/badge.svg)
 ![Go Coverage](https://github.com/Layr-Labs/eigensdk-go/wiki/coverage.svg)
 
-<p align="center"><b>
-🚧 Under active development. EIGENSDK-GO is rapidly being upgraded, features are being added, interfaces will have breaking changes 🚧
-</b><p>
-
-**Do not use it in Production, testnet only.**
+**Do not use it, this is eigenlayer testnet only.**
 
 ## EigenSDK
 This SDK provides a set of primitive Go modules for developing AVSs used in EigenLayer
