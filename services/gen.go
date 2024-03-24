@@ -11,3 +11,6 @@ package services
 // and having the avs registry interface be in the /avsregistry dir but the avsregistry_chaincaller
 // and its test in a subdir?
 //go:generate mockgen -destination=./mocks/blsagg/blsaggregation.go -package=mocks github.com/Layr-Labs/eigensdk-go/services/bls_aggregation BlsAggregationService
+
+// We generate all this node services in ./mock/blasgg directory
+//ImanPJN
